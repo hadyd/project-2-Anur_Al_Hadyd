@@ -13,4 +13,4 @@
 **CSS & HTML**
 
 ## Link Netlify 
-[hadydproject.netlify.com](hadydproject.netlify.com)
+[hadydproject.netlify.com](https://hadydproject.netlify.com/)
